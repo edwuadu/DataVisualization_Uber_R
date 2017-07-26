@@ -4,7 +4,7 @@
 
 
 ## Contributors:
-+ Shon Inouye
++ Shon Inouye https://github.com/Inouyesan/DataVisualization_Uber_R
 + Edward Kim
 
 
